@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "First Post"
+title:  "Second Post"
 date:   2017-10-13 
 categories: progress
 ---
