@@ -19,8 +19,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Using this simple jekyll site to track my programming progress. This is not meant to be pretty, it's just meant for me to be able to track my day to day progress as I learn how to program.
 baseurl: "/myprogress/" 
 url: "https//cybnew.github.io/myprogress" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: @MathewRupp
+github_username:  Cybnew
 
 # Build settings
 markdown: kramdown
