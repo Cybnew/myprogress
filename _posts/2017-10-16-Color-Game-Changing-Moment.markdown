@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Game Changing"
-date:   2017-10-16
+date:   2017-10-16 20:51:01 -0700
 categories: progress
 ---
 # Monday....
