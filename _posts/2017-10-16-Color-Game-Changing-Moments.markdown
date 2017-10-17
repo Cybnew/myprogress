@@ -22,7 +22,7 @@ The "app" is covered over 9 videos...and I'm up to 6...so 4 more videos to compl
 
 most of the functionality is there...minus the  switching between "easy" and "hard" mode...so I'm assuming a lot of it will be about styling. Tempted to style it on my own..but might way...who knows.
 
-![Color Game Day 1](myprogress/assets/cpgd1.jpg)
+![Color Game Day 1](https://github.com/Cybnew/myprogress/blob/master/assets/cpgd1.JPG?raw=true)
 
 ``` 
 var colors = generateRandomColors(6);
