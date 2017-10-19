@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Standby"
-date:   2017-10-16 20:17:01 -0700
+date:   2017-10-18 20:17:01 -0700
 categories: progress
 ---
 # Wednesday
