@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Standby"
+date:   2017-10-16 20:17:01 -0700
+categories: progress
+---
+# Wednesday
+
+Slightly dead. Consumed by cold meds. Havn't coded since monday. Head is foggy. 
+
+Plus side...playing around with illustrator...doodling..pretty fun.
+
+Might post some doodles soon.
+
+Thought of project I want to do, simple color scheme generator...with vector graphics being affected by color choices. 
+
+This is rambling....I know...how about a haiku?
+
+***
+
+Head cold has me sacked-
+Sudafed has me loopy-
+Time to not be sick.
+
+-Mat
