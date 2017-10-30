@@ -1,40 +1,19 @@
 ---
 layout: post
-title:  "Hello jQuery"
-date:   2017-10-26 21:45:01 -0700
+title:  "New To-Do"
+date:   2017-10-30 14:35:01 -0700
 categories: progress
 ---
-# Thursday
+# Monday
 
-## Oh...hello there...
 
-Been working with jQuery this week...and I like it. It makes things much faster!
 
-Apparently "you don't need jQuery" according to some people...and I will agree...in some situations you shouldn't use jQuery...I mean...you can accomplish anything you want with Vanilla JS..but I can also walk to work every day, yet I drive...because it makes me WAY faster. For example....
+It's been a little slow going this past week. Life has been keeping me very active...also I've been feeling slightly lazy....so there is that.
 
-```
-var buttons = document.querySelectorAll("button");
+ANYWAY. Finished my first todo app today. Went through the course walkthrough step by step this time instead of jumping ahead...made it so I could actually get through without feeling drained or frustrated because I did something that works...but is not where the course is going. It's not a great todo app...it doesn't save tasks...so no persistance...but as far as front end stuff goes it was a good tutorial. I feel like I could make it by myself if I did it again...might do that...we'll see. I really like the simplicity that jQuery adds to Javascript...makes it much quicker to work stuff out.
 
-for (var i = 0; i < buttons.length; i++){
-	buttons[i].addEventListener("click", function(){
-		this.style.backgroundColor("purple")
-	}
-	)};
-}
+Anyway..if you want to check out the todo progress, it's listed below.
 
-```
-
-Can be written as...
-
-```
-$("button").on("click", function(){
-	this.css("background","purple")
-	})
-```
-
-So much easier right???!?!?
-
-Anyway...tomorrow I start my first todo project...built with HTML, CSS, and JS/jQuery.
-
+[Todo App](https://cybnew.github.io/Todo-app/ "Todo App")
 	
 -Mat
