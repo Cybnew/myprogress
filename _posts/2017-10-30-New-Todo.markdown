@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "New To-Do"
+date:   2017-10-30 14:35:01 -0700
+categories: progress
+---
+# Monday
+
+
+
+It's been a little slow going this past week. Life has been keeping me very active...also I've been feeling slightly lazy....so there is that.
+
+ANYWAY. Finished my first todo app today. Went through the course walkthrough step by step this time instead of jumping ahead...made it so I could actually get through without feeling drained or frustrated because I did something that works...but is not where the course is going. It's not a great todo app...it doesn't save tasks...so no persistance...but as far as front end stuff goes it was a good tutorial. I feel like I could make it by myself if I did it again...might do that...we'll see. I really like the simplicity that jQuery adds to Javascript...makes it much quicker to work stuff out.
+
+Anyway..if you want to check out the todo progress, it's listed below.
+
+[Todo App](https://cybnew.github.io/Todo-app/ "Todo App")
+	
+-Mat
