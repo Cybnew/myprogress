@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "DO something WHILE I Search My Memory FOR This Information"
+title:  "Goals"
 date:   2018-10-22 10:17:01 -0700
 categories: progress
 ---
