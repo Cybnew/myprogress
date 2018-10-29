@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Goals-Setting"
+title:  "Goal Setting"
 date:   2018-10-22 10:17:01 -0700
 categories: progress
 ---
